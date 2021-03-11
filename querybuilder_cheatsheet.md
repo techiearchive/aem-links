@@ -29,6 +29,7 @@ Query Builder Cheat Sheet
 * [AEM 5.6.1 Search Features](https://docs.adobe.com/docs/en/cq/5-6-1/core/developing/searching_in_crx.html)
 * [Apache Lucene - Query Parser Syntax](https://lucene.apache.org/core/2_9_4/queryparsersyntax.html)
 * [Query Builder API](https://helpx.adobe.com/au/experience-manager/6-4/sites/developing/using/querybuilder-api.html)
+* [AEM 6.5 Query Builder API](https://experienceleague.adobe.com/docs/experience-manager-65/developing/platform/query-builder/querybuilder-api.html)
 
 ### Query Builder Samples
 * [Operation Exists](http://localhost:4502/libs/cq/search/content/querydebug.html?_charset_=UTF-8&query=path%3D%2Fcontent%2Fgeometrixx%0D%0Atype%3Dcq%3APage%0D%0Aproperty%3Djcr%3Acontent%2Fcq%3Atoolbars%0D%0Aproperty.operation%3Dexists%0D%0A)
